@@ -41,6 +41,10 @@ https://wiki.winehq.org/Mono </p>
 3. Download PlayOnMac.dmg and install, do Not Run. </br>
 4. copy all Mono & Gecko .msi to 
 /Users/$(whoami)/.cache/wine </p>
+optional: </br>
+/Users/$(whoami)/Library/PlayOnMac/wine/gecko </br>
+/Users/$(whoami)/Library/PlayOnMac/wine/mono </p>
+
 5. Download All: </br>
 PlayOnLinux-wine-*.*-upstream-darwin-x86.tar.gz </br>
 and </br>
@@ -53,15 +57,16 @@ https://www.playonmac.com/wine/binaries/phoenicis/upstream-darwin-amd64/ </p>
 
 Version 6.18 and Higher may have compatibility issues with PlayOnMac 4.3.3 </p>
  
-6. Copy all tar.gz to a folder, and split the 32-it & 64-Bit to another folders. </br>
-7. UnZip all .tar.gz inside the 32-bit & 64-bit forlder. </br>
+6. Copy all tar.gz to a folder, and split the 32-it & 64-Bit to another folders. </p>
+7. UnZip all .tar.gz inside the 32-bit & 64-bit forlder. </p>
 8. Rename all extracted folders, remove everything exept the version number, </br>
 from: </br>
 /PlayOnLinux-wine-7.11-upstream-darwin-x86 </br>
 to: </br>
 /7.11 <br>
 do the same for all extracted folders 
-UnZip, Rename, leave Only version number. </br>
+UnZip, Rename, leave Only version number. </p>
+
 9. copy all 32-bit renamed folders to:
 /Users/$(whoami)/Library/PlayOnMac/wine/darwin-x86
 & all 64-bit renamed folders to:</br>
