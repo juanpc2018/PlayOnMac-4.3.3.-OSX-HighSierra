@@ -6,10 +6,10 @@ its the bridge between 64-Bit Only and 32-Bit OSX. </p>
 
 OSX HighSierra 10.13.3 or 10.13.4 Beta1, Beta2, Beta3, Beta4 </br>
 allow eGPU with TB2 macs, like MacMini 2014. </br>
-since 10.13.4 TB2 support was Deleted, and Replaced with TB3 support, 
-see EveryMac.com. </p>
+since 10.13.4 TB2 support was Deleted, and Replaced with TB3 support, </br>
+but Not all TB3 Macs are compatible with OSX HighSierra, research model on EveryMac.com </p>
 
-Anyway...</br>
+...</br>
 PlayOnMac last version for OSX HighSierra is 4.3.3 </br>
 https://www.playonmac.com/en/download.html </br>
 https://repository.playonmac.com/PlayOnMac/PlayOnMac_4.3.3.dmg </p>
