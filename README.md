@@ -4,7 +4,7 @@ OSX HighSierra 10.13.6 </br>
 is the last 32/64-Bit OSX, with full support for NVMe, APFS. </br>
 its the bridge between 64-Bit Only and 32-Bit OSX. </p>
 
-OSX HighSierra 10.13.3 or 10.13.4 Beta1, Beta2, Beta3, Beta4 ≤/br<
+OSX HighSierra 10.13.3 or 10.13.4 Beta1, Beta2, Beta3, Beta4 </br>
 allow eGPU with TB2 macs, like MacMini 2014. </br>
 since 10.13.4 TB2 support was Deleted, and Replaced with TB3 support. </p>
 
