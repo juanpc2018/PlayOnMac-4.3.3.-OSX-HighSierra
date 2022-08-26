@@ -61,10 +61,10 @@ Version 6.18 and Higher may have compatibility issues with PlayOnMac 4.3.3 </p>
 7. UnZip all .tar.gz inside the 32-bit & 64-bit forlder. </p>
 8. Rename all extracted folders, remove everything exept the version number, </br>
 from: </br>
-/PlayOnLinux-wine-7.11-upstream-darwin-x86 </br>
+/Downloads/POM433/32/PlayOnLinux-wine-7.11-upstream-darwin-x86 </br>
 to: </br>
-/7.11 <br>
-do the same for all extracted folders 
+/Downloads/POM433/32/7.11 <br>
+do the same for all extracted folders </br>
 UnZip, Rename, leave Only version number. </p>
 
 9. copy all 32-bit renamed folders to: </br>
