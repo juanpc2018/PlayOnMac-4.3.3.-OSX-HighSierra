@@ -85,7 +85,7 @@ install or run any .exe the usual way. </br>
 create a Virtual Drive for 32-Bit </br>
 another Virtual Drive for 64-Bit. </br>
 Configure, Select Desired Wine version for each Virtual Drive. </br>
-Run TaskManager to Test Wine version, and automatically install Gecko and Mono for that drive. </p>
+Run TaskManager to Test Wine version, and automatically install Gecko and Mono for that wine version & drive. </p>
 
 IF does Not install Gecko & Mono automatically, is probably because you canceled / force quit a previous instalation, and Virtual Drive thinks its installed. </br>
 Delete the Virtual Drive or Manual Force Install Gecko and Mono. </br>
