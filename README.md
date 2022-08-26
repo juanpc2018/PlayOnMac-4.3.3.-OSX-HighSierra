@@ -67,9 +67,9 @@ to: </br>
 do the same for all extracted folders 
 UnZip, Rename, leave Only version number. </p>
 
-9. copy all 32-bit renamed folders to:
-/Users/$(whoami)/Library/PlayOnMac/wine/darwin-x86
-& all 64-bit renamed folders to:</br>
+9. copy all 32-bit renamed folders to: </br>
+/Users/$(whoami)/Library/PlayOnMac/wine/darwin-x86 </br>
+& all 64-bit renamed folders to: </br>
 /Users/$(whoami)/Library/PlayOnMac/wine/darwin-amd64 </p>
 
 Then you can Run PlayOnMac 4.3.3 </br>
