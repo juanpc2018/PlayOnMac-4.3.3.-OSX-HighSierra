@@ -21,7 +21,9 @@ Requires Manual Download & install. </p>
 Simple steps: must follow order. </p>
 
 i want to crete a torrent or upload files here to offload Official servers, </br>
-or copy link & download from wayback machine. </p>
+or copy link & download from wayback machine. </br>
+https://web.archive.org </p>
+
 
 0. Download and install XQuartz: </br>
 https://www.xquartz.org </br>
