@@ -10,13 +10,13 @@ since 10.13.4 TB2 support was Deleted, and Replaced with TB3 support,
 see EveryMac.com. </p>
 
 Anyway...</br>
-PlayOnMac latest version for OSX HighSierra is 4.3.3 </br>
+PlayOnMac last version for OSX HighSierra is 4.3.3 </br>
 https://www.playonmac.com/en/download.html </br>
 https://repository.playonmac.com/PlayOnMac/PlayOnMac_4.3.3.dmg </p>
 
 But is completely broken, because the servers changed, MS deleted installers, etc... </br>
-PlayOnMac 4.3.3 No longer works with Automatic Intall, </br>
-Requires Manual install. </p>
+PlayOnMac 4.3.3 No longer works with Automatic Download & Intall, </br>
+Requires Manual Download & install. </p>
 
 Simple steps: must follow order. </br>
 0. Download and install XQuartz: </br>
