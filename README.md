@@ -74,6 +74,7 @@ UnZip, Rename, leave Only version number. </p>
 all 64-bit renamed folders to: </br>
 /Users/$(whoami)/Library/PlayOnMac/wine/darwin-amd64 </p>
 
+i want to crete a torrent or upload files here to offload Official servers.
 Then you can Run PlayOnMac 4.3.3 </br>
 install or run any .exe the usual way. </br>
 create a Virtual Drive for 32-Bit </br>
