@@ -20,8 +20,8 @@ Requires Manual Download & install. </p>
 
 Simple steps: must follow order. </br>
 0. Download and install XQuartz: </br>
-https://www.xquartz.org
-https://github.com/XQuartz/XQuartz/releases
+https://www.xquartz.org </br>
+https://github.com/XQuartz/XQuartz/releases </br>
 https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.2/XQuartz-2.8.2.dmg </p>
 
 1. Doanload All 2.47.x Gecko 32 & 64-bit .msi from: </br>
