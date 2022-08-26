@@ -18,7 +18,11 @@ But is completely broken, because the servers changed, MS deleted installers, et
 PlayOnMac 4.3.3 No longer works with Automatic Download & Install, </br>
 Requires Manual Download & install. </p>
 
-Simple steps: must follow order. </br>
+Simple steps: must follow order. </p>
+
+i want to crete a torrent or upload files here to offload Official servers, </br>
+or copy link & download from wayback machine. </p>
+
 0. Download and install XQuartz: </br>
 https://www.xquartz.org </br>
 https://github.com/XQuartz/XQuartz/releases </br>
@@ -73,8 +77,6 @@ UnZip, Rename, leave Only version number. </p>
 /Users/$(whoami)/Library/PlayOnMac/wine/darwin-x86 </br>
 all 64-bit renamed folders to: </br>
 /Users/$(whoami)/Library/PlayOnMac/wine/darwin-amd64 </p>
-
-i want to crete a torrent or upload files here to offload Official servers. </p>
 
 Then you can Run PlayOnMac 4.3.3 </br>
 install or run any .exe the usual way. </br>
