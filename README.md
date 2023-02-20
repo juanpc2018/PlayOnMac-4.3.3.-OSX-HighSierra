@@ -1,8 +1,9 @@
-## PlayOnMac-4.3.3.-OSX-HighSierra </p>
+## PlayOnMac-4.3.3 OSX HighSierra </br>
+## PlayonMac-4.4.3 OSX Catalina </br>
 
 OSX HighSierra 10.13.6 </br>
-is the last 32/64-Bit OSX, with full support for NVMe, APFS. </br>
-its the bridge between 64-Bit Only and 32-Bit OSX. </p>
+is the last 32/64-Bit OSX, with support for NVMe, APFS. </br>
+its the bridge between 64-Bit Only OSX Catalina and 32-Bit OSX. </p>
 
 OSX HighSierra 10.13.3 or 10.13.4 Beta1, Beta2, Beta3, Beta4 </br>
 allow eGPU with TB2 macs, like MacMini 2014. </br>
@@ -97,3 +98,22 @@ $ wine start /i wine-gecko-2.47.1-x86_64.msi </br>
 $ winetricks </br>
 select: [Select the default wine container] → [Run uninstaller]. In the pop-up interface, if you find wine-gecko related software, it means that the wine-gecko installation is successful. </br>
 https://www.programmersought.com/article/93056517759/ </p>
+
+--------
+
+Software that Works List:
+Not all works.
+
+MonkeysAudio 6.20, since v6.30 - v9.18 gives error. </br>
+does Not detect Unix folders, file must be inside \dosdrive_c </br>
+v6.21 - v6.29 Not available on archive.org </br>
+https://monkeysaudio.com/versionhistory.html </br>
+https://web.archive.org/web/20230000000000*/https://monkeysaudio.com/files/MAC_620.exe </br>
+https://web.archive.org/web/20230000000000*/https://monkeysaudio.com/files/MAC_620_x64.exe </br>
+
+APTuner 3.09 gives error. </br>
+https://www.bromsaudio.com </br>
+https://www.bromsaudio.com/Downloads/APTunerInstall309.zip </br>
+APTuner 3.08 works ok. </br>
+https://www.softpedia.com/get/Multimedia/Audio/Other-AUDIO-Tools/AP-Tuner.shtml </br>
+
